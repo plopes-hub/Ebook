@@ -1,16 +1,21 @@
 # Ebook : Era de Plutão
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Ebook contendo 7 paginas, onde descreve o que é o planeta Plutão no signo de Aquario.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+> Roteiro : IA Generativa ChatGPT 
+> Imagens : IA Generativa Leonard AI e Copilot
+> Ferramenta : Microsoft Word e PDF24
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Usei o ChatGPT para criar o conteudo, para imagens e ilustrações usei Leonard AI + Copilot.
+Ja o Microsoft Word foi usado para estrurar o Ebook e converti para PDF usando a ferramente PDF24.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O ebook tras breve explicação da era de plutão no signo de aquario, sua mudanças e como isso afetará nosso dia a dia.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+O desafio de criar esse ebook foi muito bom, pois alem de aprender a utilizar as IAS Generativas tbem aprendi a usar o GIT.
+
+[Ebook - Era de Plutão em Aquario.pdf](https://github.com/user-attachments/files/18233659/Ebook.-.Era.de.Plutao.em.Aquario.pdf)
